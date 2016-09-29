@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\OnesTech\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_d7966d8bf51d050b5bfd477437c8d757aacaafbc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_bf17ff22b848ebd48b136380871fc6ac51d1aa9e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-22.0.0_f2b4bf4902f52ebfe61c1fb062f37cde6a1469ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.0.0_a9629cf860a5683b7a52d7a29a300da5311cc899\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.0.0_eaf80aab572992fe7a6ebb0cdef84d16284b25b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-22.0.0_32afa9160b2b2b838d2afb0538a788ca0eb0886d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9face8fcc7550be74cbc91b210b087e9cb674272">
+        <dex dex="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4c550d61c90be5fd6043df27dbfa2328cbc70c41\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="95bf9d936e9df5b543ae789fe0657871324a7b67">
+        <dex dex="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_74847cebc55678b0b4e22fdffaca54a148b54e97\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\OnesTech\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_832e26532f0e12f0c4249b7fb8f9e94ce958e169\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_446bc263a8be5b52d69b7eb91c93c44371567dbd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.0.0_40e08e9a0e5f8b55e82cc7eb77816b62fc11387c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.0.0_8cb46436bae01fd3cba24423162ab374bc662946\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_54a786457800699158064d14278349fb63ea4491\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\OnesTech\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\OnesTech\AndroidStudioProjects\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_ac11aed89712a734f379093d0b2d641dcb2b4be6\classes.dex" />
+    </item>
+
+</items>
